@@ -1,0 +1,2 @@
+我的收藏小宇宙 V1.1
+將 index.html、manifest.webmanifest、sw.js、兩張 PNG 圖示上傳至同一個 HTTPS 網站目錄（例如 GitHub Pages）。首次連網開啟，等待載入完成後再加入主畫面。Android Chrome 選單：安裝應用程式或加到主畫面；iPad Safari：分享、加入主畫面。安裝後可開飛航模式測試。資料只存於裝置，請定期匯出 JSON。舊版資料請先匯出再匯入。
